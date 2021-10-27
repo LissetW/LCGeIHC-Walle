@@ -91,7 +91,7 @@ int main()
     Shader shader("Shaders/modelLoading.vs", "Shaders/modelLoading.frag");
 
     // Load models
-    //Model plant((char*)"Models/plantBoot/bota.obj");
+    Model walle((char*)"Models/wall-e/walle.obj");
 
     glm::mat4 projection = glm::perspective(camera.GetZoom(), (float)SCREEN_WIDTH / (float)SCREEN_HEIGHT, 0.1f, 100.0f);
 
@@ -118,9 +118,9 @@ int main()
         glUniformMatrix4fv(glGetUniformLocation(shader.Program, "view"), 1, GL_FALSE, glm::value_ptr(view));
 
         // Draw the loaded model
-        //glm::mat4 model(1);
-        //glUniformMatrix4fv(glGetUniformLocation(shader.Program, "model"), 1, GL_FALSE, glm::value_ptr(model));
-        //plant.Draw(shader);
+        glm::mat4 model(1);
+        glUniformMatrix4fv(glGetUniformLocation(shader.Program, "model"), 1, GL_FALSE, glm::value_ptr(model));
+        walle.Draw(shader);
 
 
         // Swap the buffers
