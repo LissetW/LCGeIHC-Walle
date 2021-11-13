@@ -1,1 +1,9 @@
-﻿  ProyectoFinal.vcxproj -> D:\2022-1\Lab. computación gráfica\LCGeIHC-Walle\ProyectoFinal\Debug\ProyectoFinal.exe
+﻿  main.cpp
+D:\2022-1\Lab. computación gráfica\LCGeIHC-Walle\ProyectoFinal\ProyectoFinal\main.cpp(397,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\2022-1\Lab. computación gráfica\LCGeIHC-Walle\ProyectoFinal\ProyectoFinal\main.cpp(695,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\2022-1\Lab. computación gráfica\LCGeIHC-Walle\ProyectoFinal\ProyectoFinal\main.cpp(696,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\2022-1\Lab. computación gráfica\LCGeIHC-Walle\ProyectoFinal\ProyectoFinal\main.cpp(700,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\2022-1\Lab. computación gráfica\LCGeIHC-Walle\ProyectoFinal\ProyectoFinal\main.cpp(701,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\2022-1\Lab. computación gráfica\LCGeIHC-Walle\ProyectoFinal\ProyectoFinal\main.cpp(703,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\2022-1\Lab. computación gráfica\LCGeIHC-Walle\ProyectoFinal\ProyectoFinal\main.cpp(704,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  ProyectoFinal.vcxproj -> D:\2022-1\Lab. computación gráfica\LCGeIHC-Walle\ProyectoFinal\Debug\ProyectoFinal.exe
