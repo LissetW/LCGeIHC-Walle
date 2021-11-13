@@ -92,6 +92,9 @@ int main()
 
     // Load models
     Model walle((char*)"Models/wall-e/walle.obj");
+    Model planta((char*)"Models/plant-boot/planta.obj");
+    Model eva((char*)"Models/eva/eva.obj");
+    Model truck((char*)"Models/house/casa-walle.obj");
 
     glm::mat4 projection = glm::perspective(camera.GetZoom(), (float)SCREEN_WIDTH / (float)SCREEN_HEIGHT, 0.1f, 100.0f);
 
@@ -120,9 +123,10 @@ int main()
         // Draw the loaded model
         glm::mat4 model(1);
         glUniformMatrix4fv(glGetUniformLocation(shader.Program, "model"), 1, GL_FALSE, glm::value_ptr(model));
-        walle.Draw(shader);
-
-
+        //walle.Draw(shader);
+        //planta.Draw(shader);
+        //eva.Draw(shader);
+        truck.Draw(shader);
         // Swap the buffers
         glfwSwapBuffers(window);
     }
