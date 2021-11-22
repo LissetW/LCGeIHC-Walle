@@ -1,7 +1,7 @@
-# Blender MTL File: 'None'
+# Blender MTL File: 'general.blend'
 # Material Count: 3
 
-newmtl bota_bota_initialShadingGroup1
+newmtl bota_bota_initialShadingGroup1.001
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.000000 0.000000 0.000000
@@ -12,7 +12,7 @@ d 1.000000
 illum 1
 map_Kd bota_initialShadingGroup_color.tga
 
-newmtl bota_bota_tierra_initialShadingGroup
+newmtl bota_bota_tierra_initialShadingGroup.001
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.000000 0.000000 0.000000
@@ -23,7 +23,7 @@ d 1.000000
 illum 1
 map_Kd bota_initialShadingGroup_color.tga
 
-newmtl planta_initialShadingGroup
+newmtl planta_initialShadingGroup.001
 Ns 225.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.058676 0.800000 0.045653

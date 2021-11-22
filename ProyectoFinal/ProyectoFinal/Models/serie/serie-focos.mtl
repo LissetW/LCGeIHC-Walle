@@ -1,0 +1,50 @@
+# Blender MTL File: 'general.blend'
+# Material Count: 4
+
+newmtl blue
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd blue.png
+map_d blue.png
+
+newmtl green
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd green.png
+map_d green.png
+
+newmtl red
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd red.png
+map_d red.png
+
+newmtl yellow
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\2022-1\\Lab. computación gráfica\\LCGeIHC-Walle\\ProyectoFinal\\ProyectoFinal\\Models\\lamp\\lamp.png
+map_d D:\\2022-1\\Lab. computación gráfica\\LCGeIHC-Walle\\ProyectoFinal\\ProyectoFinal\\Models\\lamp\\lamp.png

@@ -1,0 +1,25 @@
+﻿  main.cpp
+D:\2022-1\Lab. computación gráfica\LCGeIHC-Walle\ProyectoFinal\ProyectoFinal\main.cpp(425,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\2022-1\Lab. computación gráfica\LCGeIHC-Walle\ProyectoFinal\ProyectoFinal\main.cpp(851,15): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\2022-1\Lab. computación gráfica\LCGeIHC-Walle\ProyectoFinal\ProyectoFinal\main.cpp(855,22): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\2022-1\Lab. computación gráfica\LCGeIHC-Walle\ProyectoFinal\ProyectoFinal\main.cpp(857,18): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\2022-1\Lab. computación gráfica\LCGeIHC-Walle\ProyectoFinal\ProyectoFinal\main.cpp(858,17): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\2022-1\Lab. computación gráfica\LCGeIHC-Walle\ProyectoFinal\ProyectoFinal\main.cpp(865,18): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\2022-1\Lab. computación gráfica\LCGeIHC-Walle\ProyectoFinal\ProyectoFinal\main.cpp(866,17): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\2022-1\Lab. computación gráfica\LCGeIHC-Walle\ProyectoFinal\ProyectoFinal\main.cpp(1014,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\2022-1\Lab. computación gráfica\LCGeIHC-Walle\ProyectoFinal\ProyectoFinal\main.cpp(1015,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\2022-1\Lab. computación gráfica\LCGeIHC-Walle\ProyectoFinal\ProyectoFinal\main.cpp(1019,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\2022-1\Lab. computación gráfica\LCGeIHC-Walle\ProyectoFinal\ProyectoFinal\main.cpp(1020,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\2022-1\Lab. computación gráfica\LCGeIHC-Walle\ProyectoFinal\ProyectoFinal\main.cpp(1022,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\2022-1\Lab. computación gráfica\LCGeIHC-Walle\ProyectoFinal\ProyectoFinal\main.cpp(1023,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+soil2-debug.lib(SOIL2.obj) : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/OPT:ICF'
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRTD' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 643 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+soil2-debug.lib(etc1_utils.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(etc1_utils.obj)' o en 'D:\2022-1\Lab. computación gráfica\LCGeIHC-Walle\ProyectoFinal\Release\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(image_DXT.obj)' o en 'D:\2022-1\Lab. computación gráfica\LCGeIHC-Walle\ProyectoFinal\Release\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(image_helper.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(image_helper.obj)' o en 'D:\2022-1\Lab. computación gráfica\LCGeIHC-Walle\ProyectoFinal\Release\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(SOIL2.obj)' o en 'D:\2022-1\Lab. computación gráfica\LCGeIHC-Walle\ProyectoFinal\Release\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  ProyectoFinal.vcxproj -> D:\2022-1\Lab. computación gráfica\LCGeIHC-Walle\ProyectoFinal\Release\ProyectoFinal.exe
